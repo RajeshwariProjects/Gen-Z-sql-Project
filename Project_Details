@@ -1,0 +1,54 @@
+# Gen Z SQL Project - Project Details
+
+
+## Introduction
+
+This SQL project investigates the career aspirations of the Gen Z generation, utilizing a dataset named gene dataset. 
+The project aims to understand Gen Z's preferences and career-related choices. This document provides an overview of the project's
+objectives, methodology, and key findings.
+
+
+## Project Objectives
+
+1. **Gender-Based Analysis:** Explore gender-based differences in Gen Z's career aspirations, including preferences for 
+                              workplace environments and career influences.
+
+2. **Higher Education Preferences:** Analyze Gen Z's interest in pursuing higher education and identify any gender-specific patterns.
+
+3. **Alignment with Company Missions:** Investigate Gen Z's willingness to work for companies whose missions are misaligned
+                                        with their public actions or products.
+
+4. **Preferred Working Environments:** Determine the most suitable working environment for female Gen Z individuals.
+
+5. **Salary Expectations:** Examine Gen Z's salary expectations at both the 3-year and 5-year marks, considering starting 
+                            salaries and higher bar salaries, and analyze any gender or country-specific variations.
+
+6. **Possibility of Working for Organizations with Misaligned Missions:** Assess the possibility of Gen Z individuals working for 
+                                                                           organizations with misaligned missions, categorized by country.
+
+## Methodology
+
+The project uses SQL queries to extract insights from the gene dataset dataset.
+
+- Gender-based analysis is performed by joining relevant tables and calculating percentages and counts.
+- Higher education preferences are explored by examining responses related to higher education plans.
+- Analysis of alignment with company missions involves joining tables to identify the likelihood of working for such organizations.
+- Salary expectations are determined by categorizing and averaging salary ranges.
+- Possibility of working for organizations with misaligned missions is calculated by assessing responses related to mission alignment.
+
+## Key Findings
+
+- Gender-based analysis revealed differences in Gen Z's preferences for everyday office environments.
+- A substantial percentage of Gen Z individuals interested in business careers are influenced by their parents.
+- Gender-wise, there are variations in the preference for higher studies among Gen Z individuals.
+- A notable percentage of Gen Z individuals are willing to work for organizations with misaligned missions.
+- The most suitable working environment for female Gen Z individuals is identified.
+- Salary expectations are analyzed by gender and country, providing valuable insights into Gen Z's financial aspirations.
+- The possibility of working for organizations with misaligned missions is assessed by country.
+
+
+## Conclusion
+
+This project provides valuable insights into the career aspirations of Gen Z individuals. The findings highlight gender-based 
+differences in preferences and the importance of alignment with company missions. The project also sheds light on Gen Z's 
+educational and salary expectations, offering valuable information for various stakeholders.
